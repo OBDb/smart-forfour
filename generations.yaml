@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Smart_Forfour"
+
+generations:
+  - name: "W454"
+    start_year: 2004
+    end_year: 2006
+    description: "Built with Mitsubishi alongside the Colt."
+  - name: "W453"
+    start_year: 2014
+    end_year: 2021
+    description: "Built with Renault alongside the third-generation Twingo, with three-cylinder engines and the electric EQ forfour."
