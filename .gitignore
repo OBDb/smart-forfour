@@ -1,0 +1,4 @@
+tests/schemas/
+__pycache__
+tests/*.py
+.vscode/*.json
